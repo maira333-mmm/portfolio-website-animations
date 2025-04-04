@@ -1,0 +1,204 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maira Alam | Computer Science Student</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header class="header">
+        <h1 class="logo"><span class="highlight">Maira</span> Alam</h1>
+        <nav class="navbar">
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#skills">Skills</a>
+            <a href="#certificates">Certificates</a>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section class="home">
+        <div class="home-content">
+            <h2>Hi, I'm Maira Alam</h2>
+            <h3>Computer Science Student | Aspiring Software Developer</h3>
+            <p>Passionate about software development, problem-solving, and technology. Seeking internship opportunities to apply my skills and contribute to innovative projects.</p>
+            <br>
+            <br>
+            <br>
+            <a href="#contact" class="btn">Contact Me</a>
+            <a href="resume.pdf" class="btn">Download Resume</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a highly motivated and detail-oriented Computer Science student with a strong foundation in software development, problem-solving, and teamwork. My expertise includes C++, HTML, CSS, JavaScript, PHP, Laravel, MySQL, and Bootstrap.</p>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Key Skills</h2>
+
+        <div class="skill-category">
+            <h3>Technical Skills:</h3>
+            <ul class="skill-list">
+                <li>C++</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>PHP</li>
+            </ul>
+        </div>
+
+        <div class="skill-category">
+            <h3>Web Technologies:</h3>
+            <ul class="skill-list">
+                <li>MySQL</li>
+                <li>jQuery</li>
+                <li>Bootstrap</li>
+                <li>Laravel</li>
+            </ul>
+        </div>
+
+        <div class="skill-category">
+            <h3>Other Skills:</h3>
+            <p class="other-skills">
+                - Strong written and verbal communication skills in English and Urdu. <br>
+                - Teamwork & Problem-Solving: Ability to collaborate and work independently on complex projects.
+            </p>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Semester Projects</h2>
+
+        <div class="project-navigation">
+            <button onclick="scrollToProject('project1')">Online Car Rental System</button>
+            <button onclick="scrollToProject('project2')">Encryption-Decryption Tool</button>
+            <button onclick="scrollToProject('project3')">Augmented Reality Game</button>
+            <button onclick="scrollToProject('project4')">SciGen App</button>
+            <button onclick="scrollToProject('project5')">Airplane Seating Management</button>
+        </div>
+
+        <div id="project1" class="project">
+            <h3>Online Car Rental System</h3>
+            <p><strong>Technologies:</strong> HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, Laravel</p>
+            <ul>
+                <li>Developed a fully functional car rental system with features like car browsing, booking, and category-based filtering.</li>
+                <li>Implemented a responsive design with interactive forms to enhance user experience.</li>
+                <li>Initially built the frontend using HTML, CSS, JavaScript, and Bootstrap, then integrated PHP for backend functionality and database management.</li>
+                <li>Later migrated to Laravel for improved scalability and maintainability.</li>
+            </ul>
+        </div>
+
+        <div id="project2" class="project">
+            <h3>Encryption-Decryption Tool</h3>
+            <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
+            <ul>
+                <li>Created a secure web-based tool for data encryption, enhancing privacy in communications.</li>
+            </ul>
+        </div>
+
+        <div id="project3" class="project">
+            <h3>Augmented Reality Game</h3>
+            <ul>
+                <li>Documented an immersive Augmented Reality Game that merges virtual and physical worlds.</li>
+                <li>Offers an educational experience exploring diverse cultures and cuisines through innovative AR technology.</li>
+            </ul>
+        </div>
+
+        <div id="project4" class="project">
+            <h3>SciGen App</h3>
+            <ul>
+                <li>Documented a platform providing users with a convenient space to share research, hypotheses, and ideas.</li>
+                <li>Integrated features include comments, ratings, location-based services, badges, levels, content control, language translation, and premium account benefits.</li>
+            </ul>
+        </div>
+
+        <div id="project5" class="project">
+            <h3>Airplane Seating Management Application</h3>
+            <p><strong>Technologies:</strong> C++ / OOP</p>
+            <ul>
+                <li>Developed a user-friendly application to manage seat bookings and availability.</li>
+            </ul>
+        </div>
+    </section>
+
+    
+<!-- Certificates Section -->
+<section id="certificates">
+    <h2>Certificates</h2>
+    <div class="certificate-tabs">
+      <button class="tab-btn active" data-tab="academic">Academic Certificates</button>
+      <button class="tab-btn" data-tab="volunteer">Volunteer Experience</button>
+    </div>
+    <div class="certificate-content">
+      <!-- Academic Certificates -->
+      <div class="tab-content active" data-tab="academic">
+        <h3>Academic Certificates</h3>
+        <ul>
+          <li class="certificate-name">
+            Social Media Mastery
+            <div class="certificate-details">
+              <img src="social.jpg" alt="Social Media Mastery Certificate">
+            </div>
+          </li>
+          <li class="certificate-name">
+            Complete Graphics Design & Video Editing Masterclass
+            <div class="certificate-details">
+              <img src="photoshop.jpg" alt="Graphics Design Certificate">
+            </div>
+          </li>
+          <li class="certificate-name">
+            HTML5, Python, Django, and Flask Full-Stack Course
+            <div class="certificate-details">
+              <img src="html5.jpg" alt="Full-Stack Certificate">
+            </div>
+          </li>
+        </ul>
+      </div>
+  
+      <!-- Volunteer Experience -->
+      <div class="tab-content" data-tab="volunteer">
+        <h3>Volunteer Experience</h3>
+        <ul>
+          <li class="certificate-name">
+            Government Special Education Centre (GSEC)
+            <div class="certificate-details">
+              <img src="volunteer.jpg" alt="Volunteer Certificate">
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  
+  </section>
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:maira.alam33@gmail.com">maira.alam33@gmail.com</a></p>
+       
+    </section>
+
+    <script>
+        function scrollToProject(id) {
+            const project = document.getElementById(id);
+            const allProjects = document.querySelectorAll('.project');
+            allProjects.forEach(p => p.classList.remove('active')); // Hide all projects
+
+            // Show the clicked project
+            project.classList.add('active');
+        }
+    </script>
+    <script src="script.js"></script>
+
+</body>
+</html>
+
