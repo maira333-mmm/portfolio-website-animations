@@ -1,199 +1,136 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1E3A5F,50:2563EB,100:60A5FA&text=Maira%20Alam&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer&descAlignY=60&animation=fadeIn" alt="Maira Alam animated header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1E3A5F,50:2563EB,100:60A5FA&text=Maira%20Alam&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Computer%20Science%20Graduate%20|%20Aspiring%20Software%20Developer&descAlignY=60&animation=fadeIn" alt="Maira Alam animated header" />
 
-<br />
+<br>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&repeat=true&width=640&height=52&lines=Building+innovative+solutions+with+code.;Passionate+about+software+development.;Always+learning%2C+always+creating.;Turning+ideas+into+reality." alt="Animated overview" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=700&color=2563EB&center=true&vCenter=true&repeat=true&width=700&height=52&lines=Responsive+Personal+Portfolio+Website.;Built+with+HTML,+CSS,+and+JavaScript.;Showcasing+Projects,+Skills,+and+Certificates.;Clean,+Interactive,+and+Fully+Responsive." alt="Typing Animation" />
+
+<br><br>
+
+A modern **Responsive Personal Portfolio Website** built using **HTML, CSS, and JavaScript** to showcase projects, technical skills, certificates, and contact information with a clean UI and smooth animations.
+
+<br>
+
+<a href="https://your-live-demo.vercel.app">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<p>
-  A responsive personal portfolio website built with HTML, CSS, and JavaScript.<br />
-  Showcasing projects, skills, and achievements in a clean and interactive layout.
-</p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-website">
+<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/last-commit/maira-alam/portfolio-website?style=for-the-badge&color=2563EB&label=LAST%20UPDATE" alt="Latest GitHub commit" />
-  </a>
-</p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-website/commits/main">
+<img src="https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/portfolio-website?style=for-the-badge&label=LAST%20UPDATE"/>
+</a>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Responsive-FF6B6B?style=flat-square&logo=responsive&logoColor=white" alt="Responsive" />
-</p>
+<br><br>
 
-</div>
-
-## 📋 Table of Contents
-
-- [About The Project](#-about-the-project)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Sections Overview](#-sections-overview)
-- [Getting Started](#-getting-started)
-- [Customization Guide](#-customization-guide)
-- [JavaScript Features](#-javascript-features)
-- [Browser Compatibility](#-browser-compatibility)
-- [Contributing](#-contributing)
-- [Contact](#-contact)
-- [License](#-license)
-
----
-
-## 🎯 About The Project
-
-A **responsive personal portfolio website** built with **HTML, CSS, and JavaScript** — designed to showcase projects, skills, and achievements in a clean and interactive layout.
-
-Built for the question: *"How do I present my skills and projects professionally?"*
-
-<div align="center">
-
-| Design | Build | Launch |
-| :---: | :---: | :---: |
-| Plan the layout and color scheme | Write clean HTML, CSS, and JavaScript | Deploy and share with the world |
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Responsive-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Animations-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square"/>
 
 </div>
 
 ---
 
-## ✨ Features
+# 📋 Table of Contents
 
-| Feature | What it means |
-| --- | --- |
-| Responsive Design | Adapts to all screen sizes (mobile, tablet, desktop) |
-| Smooth Animations | Fade-in and slide-in effects for polished experience |
-| Interactive Projects | Click navigation buttons to view project details |
-| Certificate Tabs | Switch between Academic and Volunteer certificates |
-| Click-to-View | Expand certificates to see images |
-| Fixed Navigation | Smooth scrolling with fixed header |
-| Resume Download | One-click PDF download |
-| Contact Section | Direct email link for communication |
+- 📖 About
+- ✨ Features
+- 📁 Project Structure
+- 📑 Sections Overview
+- 🚀 Getting Started
+- 🎨 Customization Guide
+- ⚙ JavaScript Features
+- 🌍 Browser Compatibility
+- 📊 Website Workflow
+- 🤝 Contributing
+- 📬 Contact
+- 📄 License
+- 🙏 Acknowledgements
 
 ---
 
-## 📁 Project Structure
+# 📖 About
+
+This project is a **responsive personal portfolio website** designed to professionally showcase academic projects, technical skills, certificates, and contact information.
+
+It features smooth animations, interactive project navigation, responsive layouts, and a modern dark theme suitable for students, developers, and job seekers.
+
+---
+
+# ✨ Features
+
+| Feature | Description |
+|----------|-------------|
+| 📱 Responsive Design | Works on Desktop, Tablet, and Mobile |
+| 🎨 Modern UI | Dark theme with glowing accents |
+| ✨ Smooth Animations | Fade and hover effects |
+| 📂 Interactive Projects | Click buttons to switch projects |
+| 📜 Certificate Tabs | Academic & Volunteer categories |
+| 🖼 Expandable Certificates | View certificate images |
+| 📄 Resume Download | Download resume directly |
+| 📬 Contact Section | Quick email access |
+| 🚀 Smooth Scrolling | Fixed navigation with smooth scroll |
+
+---
+
+# 📁 Project Structure
 
 ```text
 portfolio-website/
 │
-├── index.html          # Main HTML file
-├── style.css           # All styles and animations
-├── script.js           # JavaScript functionality
-├── resume.pdf          # Downloadable resume
+├── index.html
+├── style.css
+├── script.js
+├── resume.pdf
 │
 ├── assets/
-│   ├── img/            # Certificate images
+│   ├── images/
 │   │   ├── social.jpg
 │   │   ├── photoshop.jpg
 │   │   ├── html5.jpg
 │   │   └── volunteer.jpg
-│   └── icons/          # Additional icons
+│   └── icons/
 │
-└── README.md           # Documentation
+└── README.md
+```
+
 ---
 
 # 📑 Sections Overview
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-## 🏠 Home
+| 🏠 Home | 👤 About |
+|:-------:|:--------:|
+| ✨ Animated Hero Section<br>🎯 Professional Introduction<br>📄 Resume Download Button<br>📬 Contact Button<br>🌊 Smooth Navigation | 👨‍💻 Professional Summary<br>💡 Technical Expertise<br>🧩 Problem Solving<br>🤝 Teamwork<br>🚀 Career Objective |
 
-✨ Animated hero section
+</div>
 
-🎯 Professional introduction
+<br>
 
-📄 Resume download button
+<div align="center">
 
-📬 Contact button
+| 💻 Skills | 📂 Projects |
+|:---------:|:-----------:|
+| **Technical**<br>C++, HTML, CSS, JavaScript, PHP<br><br>**Web**<br>MySQL, Bootstrap, jQuery, Laravel<br><br>**Other**<br>Communication, Teamwork, Problem Solving | 🚗 Online Car Rental System<br>🔐 Encryption Tool<br>🎮 Augmented Reality Game<br>🧪 SciGen App<br>✈ Airplane Seating Management |
 
-Smooth scrolling navigation
+</div>
 
-</td>
+<br>
 
-<td width="50%">
+<div align="center">
 
-## 👤 About
+| 📜 Certificates | 📬 Contact |
+|:---------------:|:----------:|
+| 🎓 Social Media Mastery<br>🎨 Graphics Design & Video Editing<br>🌐 HTML5, Python, Django & Flask<br>🤝 Government Special Education Centre (GSEC) | 📧 maira.alam33@gmail.com<br>💼 Available for Internships & Opportunities |
 
-Professional summary
-
-Technical expertise
-
-Problem-solving mindset
-
-Communication & teamwork
-
-Career objective
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 💻 Skills
-
-| Category | Skills |
-| :--- | :--- |
-| 💻 Technical | C++, HTML, CSS, JavaScript, PHP |
-| 🌐 Web | MySQL, Bootstrap, jQuery, Laravel |
-| 🤝 Other | Communication, Teamwork, Problem Solving |
-
-</td>
-
-<td>
-
-## 📂 Projects
-
-| Project | Stack |
-| :--- | :--- |
-| 🚗 Car Rental System | HTML, CSS, JS, PHP, Laravel |
-| 🔐 Encryption Tool | HTML, CSS, JavaScript |
-| 🎮 AR Game | Augmented Reality |
-| 🧪 SciGen | Research Platform |
-| ✈ Airplane Seating | C++ / OOP |
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 📜 Certificates
-
-🎓 Academic
-
-- Social Media Mastery
-- Graphics Design & Video Editing
-- HTML5, Python, Django & Flask
-
-🤝 Volunteer
-
-- Government Special Education Centre (GSEC)
-
-</td>
-
-<td>
-
-## 📬 Contact
-
-📧 **Email**
-
-maira.alam33@gmail.com
-
-💼 Available for internships and collaboration.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -201,16 +138,15 @@ maira.alam33@gmail.com
 
 ## 📋 Requirements
 
-✅ Modern Web Browser
-
-✅ VS Code (Recommended)
+- 🌐 Modern Web Browser
+- 💻 Visual Studio Code (Recommended)
 
 ---
 
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/maira-alam/portfolio-website.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/portfolio-website.git
 
 cd portfolio-website
 ```
@@ -220,23 +156,21 @@ cd portfolio-website
 ## 2️⃣ Open Website
 
 ```bash
-# Double click
+# Double-click
 
 index.html
 
 # OR
 
-Use Live Server in VS Code
+Use Live Server Extension in VS Code
 ```
 
 ---
 
 ## 3️⃣ Customize
 
-Edit the following files
-
 | File | Purpose |
-| :--- | :--- |
+|------|---------|
 | index.html | Website Structure |
 | style.css | Styling & Animations |
 | script.js | JavaScript Functionality |
@@ -246,13 +180,13 @@ Edit the following files
 # 🎨 Customization Guide
 
 <details>
-
 <summary><b>🎨 Change Theme Colors</b></summary>
 
 ```css
 :root{
   --bg-color:#000;
   --second-bg-color:#0a0a0a;
+  --text-color:#fff;
   --main-color:#00ccff;
   --hover-color:#0099cc;
 }
@@ -271,7 +205,7 @@ Edit the following files
 
 <h3>Project Name</h3>
 
-<p><strong>Technologies:</strong> HTML, CSS</p>
+<p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
 
 <ul>
 
@@ -295,11 +229,11 @@ Edit the following files
 ```html
 <li class="certificate-name">
 
-Certificate Title
+Certificate Name
 
 <div class="certificate-details">
 
-<img src="assets/img/certificate.jpg">
+<img src="assets/images/certificate.jpg" alt="Certificate">
 
 </div>
 
@@ -313,23 +247,46 @@ Certificate Title
 # ⚙ JavaScript Features
 
 | Function | Description |
-| :--- | :--- |
-| scrollToProject(id) | Opens selected project |
-| Tab Switching | Academic ↔ Volunteer |
-| Expand Certificates | Click to preview certificate |
-| Smooth Scrolling | Navigation animation |
+|----------|-------------|
+| `scrollToProject(id)` | Displays selected project |
+| Certificate Tabs | Switch Academic ↔ Volunteer |
+| Expand Certificates | Click to show image |
+| Smooth Scrolling | Better navigation |
 
 ---
 
 # 🌍 Browser Compatibility
 
 | Browser | Supported |
-| :--- | :---: |
-| <img src="https://img.shields.io/badge/Chrome-Yes-success"> | ✅ |
-| <img src="https://img.shields.io/badge/Firefox-Yes-success"> | ✅ |
-| <img src="https://img.shields.io/badge/Edge-Yes-success"> | ✅ |
-| <img src="https://img.shields.io/badge/Safari-Yes-success"> | ✅ |
-| <img src="https://img.shields.io/badge/Opera-Yes-success"> | ✅ |
+|----------|:---------:|
+| Chrome | ✅ |
+| Firefox | ✅ |
+| Microsoft Edge | ✅ |
+| Safari | ✅ |
+| Opera | ✅ |
+
+---
+
+# 📊 Website Workflow
+
+```text
+🏠 Home
+      │
+      ▼
+👤 About
+      │
+      ▼
+💻 Skills
+      │
+      ▼
+📂 Projects
+      │
+      ▼
+📜 Certificates
+      │
+      ▼
+📬 Contact
+```
 
 ---
 
@@ -357,19 +314,21 @@ Open Pull Request
 
 <div align="center">
 
-### 👩‍💻 Maira Alam
+## 👩‍💻 Maira Alam
 
 📧 **Email**
 
 maira.alam33@gmail.com
 
-💻 GitHub
+<br>
 
-https://github.com/maira-alam
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-💼 LinkedIn
-
-https://linkedin.com/in/maira-a-48699630b
+<a href="https://www.linkedin.com/in/maira-a-48699630b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
@@ -379,31 +338,35 @@ https://linkedin.com/in/maira-a-48699630b
 
 This project is licensed under the **MIT License**.
 
-See the **LICENSE** file for details.
+See the **LICENSE** file for more information.
 
 ---
 
 # 🙏 Acknowledgements
 
 | Resource | Purpose |
-| :--- | :--- |
-| Capsule Render | Animated Header |
+|----------|---------|
+| Capsule Render | Animated Headers |
 | Readme Typing SVG | Typing Animation |
-| Shields.io | Badges |
+| Shields.io | Technology Badges |
 | GitHub | Repository Hosting |
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1E3A5F,50:2563EB,100:60A5FA" />
 
-### ❤️ Built with HTML, CSS & JavaScript
+## ❤️ Built with HTML, CSS & JavaScript
 
-**Made by Maira Alam**
+### Made with 💙 by **Maira Alam**
 
-⭐ If you like this project, consider giving it a star.
+⭐ If you found this project helpful, consider giving it a star!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:60A5FA,50:2563EB,100:1E3A5F"/>
+<br>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-website">
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/portfolio-website?style=social"/>
+</a>
+type=waving&height=120&section=footer&color=0:60A5FA,50:2563EB,100:1E3A5F"/>
 
 </div>
