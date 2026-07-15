@@ -332,14 +332,6 @@ Open Pull Request
 
 <br><br>
 
-📧 **Email:** maira.alam33@gmail.com
-
-💻 **GitHub:** https://github.com/maira333-mmm
-
-💼 **LinkedIn:** https://www.linkedin.com/in/maira-a-48699630b/
-
-🌐 **Portfolio:** https://maira-alam-o2p20gi.gamma.site/
-
 </div>
 
 ---
@@ -374,9 +366,7 @@ See the **LICENSE** file for more information.
 
 <br>
 
-<a href="https://github.com/maira333-mmm/portfolio-website-animations">
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/portfolio-website?style=social"/>
+<a href="https://github.com/maira333-mmm/portfolio-website-animations/commits/main">
+  <img src="https://img.shields.io/github/last-commit/maira333-mmm/portfolio-website-animations?style=for-the-badge&label=LAST%20UPDATE" alt="Last Update"/>
 </a>
-type=waving&height=120&section=footer&color=0:60A5FA,50:2563EB,100:1E3A5F"/>
-
 </div>
