@@ -298,12 +298,13 @@ Open Pull Request
 
 # 📬 Contact
 
+
 <div align="center">
 
 ## 👩‍💻 Maira Alam
 
-<a href="mailto:maira.alam33@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maira.alam33@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/maira333-mmm">
@@ -317,8 +318,6 @@ Open Pull Request
 <a href="https://maira-alam-o2p20gi.gamma.site/">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-<br><br>
 
 </div>
 
