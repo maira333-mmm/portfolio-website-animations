@@ -12,16 +12,14 @@ A modern **Responsive Personal Portfolio Website** built using **HTML, CSS, and 
 
 <br>
 
-<a href="https://your-live-demo.vercel.app">
-<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+
+<a href="https://github.com/maira333-mmm/portfolio-website-animations">
+  <img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-website">
-<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio-website/commits/main">
-<img src="https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/portfolio-website?style=for-the-badge&label=LAST%20UPDATE"/>
+<a href="https://github.com/maira333-mmm/portfolio-website-animations/commits/main">
+  <img src="https://img.shields.io/github/last-commit/maira333-mmm/portfolio-website-animations?style=for-the-badge&label=LAST%20UPDATE" alt="Last Update"/>
 </a>
 
 <br><br>
