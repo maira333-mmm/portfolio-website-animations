@@ -97,133 +97,313 @@ portfolio-website/
 │   └── icons/          # Additional icons
 │
 └── README.md           # Documentation
-📑 Sections Overview
-🏠 Home
-Introduction with animated effect
+---
 
-Call-to-action buttons
+# 📑 Sections Overview
 
-👤 About
+<table>
+<tr>
+<td width="50%">
+
+## 🏠 Home
+
+✨ Animated hero section
+
+🎯 Professional introduction
+
+📄 Resume download button
+
+📬 Contact button
+
+Smooth scrolling navigation
+
+</td>
+
+<td width="50%">
+
+## 👤 About
+
 Professional summary
 
-Technical expertise and soft skills
+Technical expertise
 
-💻 Skills
-Category	Skills
-Technical	C++, HTML, CSS, JavaScript, PHP
-Web	MySQL, jQuery, Bootstrap, Laravel
-Other	Communication, Teamwork, Problem-Solving
-📂 Projects
-#	Project	Technologies
-1	Online Car Rental System	HTML, CSS, JS, Bootstrap, jQuery, PHP, Laravel
-2	Encryption-Decryption Tool	HTML, CSS, JS
-3	Augmented Reality Game	AR Technology
-4	SciGen App	Research Platform
-5	Airplane Seating Management	C++ / OOP
-📜 Certificates
-Academic:
+Problem-solving mindset
 
-Social Media Mastery
+Communication & teamwork
 
-Graphics Design & Video Editing
+Career objective
 
-HTML5, Python, Django, Flask Full-Stack
+</td>
+</tr>
 
-Volunteer:
+<tr>
+<td>
 
-Government Special Education Centre (GSEC)
+## 💻 Skills
 
-📬 Contact
-Email: maira.alam33@gmail.com
+| Category | Skills |
+| :--- | :--- |
+| 💻 Technical | C++, HTML, CSS, JavaScript, PHP |
+| 🌐 Web | MySQL, Bootstrap, jQuery, Laravel |
+| 🤝 Other | Communication, Teamwork, Problem Solving |
 
-🚀 Getting Started
-What you need
-Any modern web browser
+</td>
 
-Text editor (VS Code recommended)
+<td>
 
-1. Clone the project
-bash
+## 📂 Projects
+
+| Project | Stack |
+| :--- | :--- |
+| 🚗 Car Rental System | HTML, CSS, JS, PHP, Laravel |
+| 🔐 Encryption Tool | HTML, CSS, JavaScript |
+| 🎮 AR Game | Augmented Reality |
+| 🧪 SciGen | Research Platform |
+| ✈ Airplane Seating | C++ / OOP |
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+## 📜 Certificates
+
+🎓 Academic
+
+- Social Media Mastery
+- Graphics Design & Video Editing
+- HTML5, Python, Django & Flask
+
+🤝 Volunteer
+
+- Government Special Education Centre (GSEC)
+
+</td>
+
+<td>
+
+## 📬 Contact
+
+📧 **Email**
+
+maira.alam33@gmail.com
+
+💼 Available for internships and collaboration.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Getting Started
+
+## 📋 Requirements
+
+✅ Modern Web Browser
+
+✅ VS Code (Recommended)
+
+---
+
+## 1️⃣ Clone Repository
+
+```bash
 git clone https://github.com/maira-alam/portfolio-website.git
+
 cd portfolio-website
-2. Open in browser
-bash
-# Double-click index.html
-# Or use Live Server in VS Code
-3. Start customizing
-Edit the HTML, CSS, and JavaScript files to make it your own.
+```
 
-🎨 Customization Guide
-Change Colors
-Edit in style.css:
+---
 
-css
-:root {
-  --bg-color: #000;
-  --main-color: #00ccff;
-  --hover-color: #0099cc;
+## 2️⃣ Open Website
+
+```bash
+# Double click
+
+index.html
+
+# OR
+
+Use Live Server in VS Code
+```
+
+---
+
+## 3️⃣ Customize
+
+Edit the following files
+
+| File | Purpose |
+| :--- | :--- |
+| index.html | Website Structure |
+| style.css | Styling & Animations |
+| script.js | JavaScript Functionality |
+
+---
+
+# 🎨 Customization Guide
+
+<details>
+
+<summary><b>🎨 Change Theme Colors</b></summary>
+
+```css
+:root{
+  --bg-color:#000;
+  --second-bg-color:#0a0a0a;
+  --main-color:#00ccff;
+  --hover-color:#0099cc;
 }
-Add New Project
-html
+```
+
+</details>
+
+---
+
+<details>
+
+<summary><b>➕ Add New Project</b></summary>
+
+```html
 <div id="project6" class="project">
-  <h3>Project Name</h3>
-  <p><strong>Technologies:</strong> List here</p>
-  <ul>
-    <li>Feature 1</li>
-    <li>Feature 2</li>
-  </ul>
+
+<h3>Project Name</h3>
+
+<p><strong>Technologies:</strong> HTML, CSS</p>
+
+<ul>
+
+<li>Feature One</li>
+
+<li>Feature Two</li>
+
+</ul>
+
 </div>
-Add Certificate
-html
+```
+
+</details>
+
+---
+
+<details>
+
+<summary><b>📜 Add New Certificate</b></summary>
+
+```html
 <li class="certificate-name">
-  Certificate Title
-  <div class="certificate-details">
-    <img src="assets/img/certificate.jpg" alt="Certificate">
-  </div>
+
+Certificate Title
+
+<div class="certificate-details">
+
+<img src="assets/img/certificate.jpg">
+
+</div>
+
 </li>
-💻 JavaScript Features
-Function	Description
-scrollToProject(id)	Navigates to selected project
-Certificate Tab Switching	Toggle between tabs
-Certificate Expand/Collapse	Show/hide images on click
-Smooth Scrolling	Built-in smooth scroll
-🧪 Browser Compatibility
-Browser	Version	Status
-Chrome	60+	✅
-Firefox	60+	✅
-Safari	12+	✅
-Edge	80+	✅
-Opera	50+	✅
-🤝 Contributing
-Fork the repository
+```
 
-Create your branch (git checkout -b feature/AmazingFeature)
+</details>
 
-Commit changes (git commit -m 'Add AmazingFeature')
+---
 
-Push to branch (git push origin feature/AmazingFeature)
+# ⚙ JavaScript Features
 
-Open a Pull Request
+| Function | Description |
+| :--- | :--- |
+| scrollToProject(id) | Opens selected project |
+| Tab Switching | Academic ↔ Volunteer |
+| Expand Certificates | Click to preview certificate |
+| Smooth Scrolling | Navigation animation |
 
-📬 Contact
-Maira Alam
+---
 
-📧 Email: maira.alam33@gmail.com
+# 🌍 Browser Compatibility
 
-📄 License
-MIT License - see LICENSE file for details.
+| Browser | Supported |
+| :--- | :---: |
+| <img src="https://img.shields.io/badge/Chrome-Yes-success"> | ✅ |
+| <img src="https://img.shields.io/badge/Firefox-Yes-success"> | ✅ |
+| <img src="https://img.shields.io/badge/Edge-Yes-success"> | ✅ |
+| <img src="https://img.shields.io/badge/Safari-Yes-success"> | ✅ |
+| <img src="https://img.shields.io/badge/Opera-Yes-success"> | ✅ |
 
-🙏 Acknowledgments
-Capsule Render for animated headers
+---
 
-Readme Typing SVG for typing animations
+# 🤝 Contributing
 
-Shields.io for badges
+```text
+Fork Repository
+      │
+      ▼
+Create Feature Branch
+      │
+      ▼
+Commit Changes
+      │
+      ▼
+Push Branch
+      │
+      ▼
+Open Pull Request
+```
 
+---
 
-Built with ❤️ by Maira Alam
-Source · Issues
+# 📬 Contact
 
-<sub>Made for showcasing skills, projects, and achievements professionally.</sub>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:60A5FA,50:2563EB,100:1E3A5F&animation=fadeIn" alt="Footer" /></div> ```
+### 👩‍💻 Maira Alam
+
+📧 **Email**
+
+maira.alam33@gmail.com
+
+💻 GitHub
+
+https://github.com/maira-alam
+
+💼 LinkedIn
+
+https://linkedin.com/in/maira-a-48699630b
+
+</div>
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the **LICENSE** file for details.
+
+---
+
+# 🙏 Acknowledgements
+
+| Resource | Purpose |
+| :--- | :--- |
+| Capsule Render | Animated Header |
+| Readme Typing SVG | Typing Animation |
+| Shields.io | Badges |
+| GitHub | Repository Hosting |
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:1E3A5F,50:2563EB,100:60A5FA" />
+
+### ❤️ Built with HTML, CSS & JavaScript
+
+**Made by Maira Alam**
+
+⭐ If you like this project, consider giving it a star.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:60A5FA,50:2563EB,100:1E3A5F"/>
+
+</div>
