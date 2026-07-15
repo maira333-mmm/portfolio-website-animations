@@ -116,7 +116,7 @@ portfolio-website-animations/
 
 | 📜 Certificates | 📬 Contact |
 |:---------------:|:----------:|
-| 🎓 Social Media Mastery<br>🎨 Graphics Design & Video Editing<br>🌐 HTML5, Python, Django & Flask<br>🤝 Government Special Education Centre (GSEC) | 📧 maira.alam33@gmail.com<br>💼 Available for Internships & Opportunities |
+| 🎓 Social Media Mastery<br>🎨 Graphics Design & Video Editing<br>🌐 HTML5, Python, Django & Flask Full-Stack Course<br>🤝 Government Special Education Centre (GSEC) | <a href="mailto:maira.alam33@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><br><br>💼 **Available for Internships & Opportunities** |
 
 </div>
 
