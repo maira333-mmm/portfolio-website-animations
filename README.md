@@ -82,22 +82,12 @@ It features smooth animations, interactive project navigation, responsive layout
 # 📁 Project Structure
 
 ```text
-portfolio-website/
+portfolio-website-animations/
 │
+├── README.md
 ├── index.html
-├── style.css
 ├── script.js
-├── resume.pdf
-│
-├── assets/
-│   ├── images/
-│   │   ├── social.jpg
-│   │   ├── photoshop.jpg
-│   │   ├── html5.jpg
-│   │   └── volunteer.jpg
-│   └── icons/
-│
-└── README.md
+└── style.css
 ```
 
 ---
